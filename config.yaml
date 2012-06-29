@@ -28,5 +28,5 @@ taxonomies:
   # Filter taxonomies entries.
   entry_filter: {category: Uncategorized}
   # Rename taxonomies when writing jekyll output format.
-  name_mapping: {category: categories, post_tag: tags}
+  name_mapping: {category: categories, post_tag: tags, tag: tags}
 
